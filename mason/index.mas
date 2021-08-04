@@ -1,0 +1,11 @@
+<%args>
+$schema
+$static_content_path => undef
+$show_accept_dialog => undef
+</%args>
+
+<center>
+<br/>
+<img src="/static/img/lsurice-breedbase-img/rice_paddies.jpg" width="800" />
+<br/>
+</center>
