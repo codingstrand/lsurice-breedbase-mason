@@ -1,5 +1,4 @@
-<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Analyze</a>
-<!-- <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Tools<span class="caret"></span></a> -->
+<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown">Analyze</a>
   <ul class="dropdown-menu">
     <li><a href="/analyses">Analyses &amp; Models</a></li>
     <li role="separator" class="divider"></li>    
