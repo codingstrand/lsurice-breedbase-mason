@@ -6,6 +6,6 @@ $show_accept_dialog => undef
 
 <center>
 <br/>
-<img src="/static/img/lsurice-breedbase-img/rice_paddies.jpg" width="800" />
+<img src = "/static/img/lsurice-breedbase-img/rice_paddies.jpg" width=100% />
 <br/>
 </center>
